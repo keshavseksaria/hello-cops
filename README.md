@@ -1,5 +1,5 @@
 # hello-cops
-first repository
+First repository
 
 Hello Humans!
 
